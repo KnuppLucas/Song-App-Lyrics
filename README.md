@@ -6,4 +6,5 @@ Deployed in this url: https://lyrics-app-knpp.netlify.app/ fell free to try it :
 
 Here is a gif for pre visualization!
 
-https://user-images.githubusercontent.com/102392874/210270967-c5be4676-799f-4f57-ac9b-729f06c59041.mp4
+![versaoReduzida](https://user-images.githubusercontent.com/102392874/210271053-afbee4e0-eb10-4320-9189-d2f21c6d234c.gif)
+
